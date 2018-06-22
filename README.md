@@ -1,6 +1,6 @@
-# eye_care
+# CalCheat
 
-A new Flutter project.
+A simple calculator made with flutter.
 
 ## Getting Started
 
